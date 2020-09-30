@@ -1,0 +1,13 @@
+¿Qué es Git? ¿Qué es Github?
+
+- Git es un sistema de control de versiones distribuido, libre y open source, diseñado
+para manejar desde pequeños a grandes proyectos con rapidez y eficacia.
+
+- Git almacena estas versiones en repositorios locales, por lo que necesitamos usar
+plataformas en la nube como Github para crear repositorios remotos.
+
+- GitHub es una plataforma de desarrollo colaborativo de software para alojar
+proyectos utilizando el sistema de control de versiones Git.
+
+- GitHub aloja repositorios de código y brinda herramientas muy útiles para el trabajo en
+equipo, dentro de un proyecto.
